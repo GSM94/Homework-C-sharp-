@@ -24,8 +24,8 @@ void ShowArray(int[] array)
         // Console.WriteLine($"array[{i+1}] is {array[i]}");
         Console.Write(array[i] + " ");
 }
-Console.Write("Iput a number of elements: ");
-int size = Convert.ToInt32(Console.ReadLine());
+
+int size = 4;
 
 
 int[] myArray = CreateRandomArray(size);
