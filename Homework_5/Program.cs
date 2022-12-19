@@ -98,6 +98,7 @@ double[] CreateRandomArray(int size)
 
     for(int i = 0; i < size; i++)
         array[i] = new Random().NextDouble() + new Random().Next(1, 10);
+        // array[i] = Convert.ToDouble(new Random().Next(10,100)) / 10;
     return array;
 }
 void ShowArray(double[] array)
@@ -122,7 +123,7 @@ double maxArray(double[] array)
 {
     double max = array[0];
     for(int i = 0; i < array.Length; i++)
-        if(array[i] > array[0]) 
+        if(array[i] > max) 
             max = array[i]; 
     return max;
 }
