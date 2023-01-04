@@ -1,0 +1,15 @@
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\bin\Debug\net6.0\Homework_7.exe
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\bin\Debug\net6.0\Homework_7.deps.json
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\bin\Debug\net6.0\Homework_7.runtimeconfig.json
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\bin\Debug\net6.0\Homework_7.dll
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\bin\Debug\net6.0\Homework_7.pdb
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.csproj.AssemblyReference.cache
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.AssemblyInfoInputs.cache
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.AssemblyInfo.cs
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.csproj.CoreCompileInputs.cache
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.dll
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\refint\Homework_7.dll
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.pdb
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\Homework_7.genruntimeconfig.cache
+D:\Geek brains\Лекции и семинары\3 block\Homework\Homework_7\obj\Debug\net6.0\ref\Homework_7.dll
