@@ -47,7 +47,7 @@
 // m = 2, n = 3 -> A(m,n) = 9
 // m = 3, n = 2 -> A(m,n) = 29
 
-ulong Akkerman(ulong m, ulong n)
+int Akkerman(int m, int n)
 {
     if(m == 0)
         return n + 1;
@@ -57,10 +57,10 @@ ulong Akkerman(ulong m, ulong n)
 }
 
 Console.Write("Input num M ");
-ulong num1 = Convert.ToUInt64(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input num N ");
-ulong num2 = Convert.ToUInt64(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(Akkerman(num1, num2));
 
